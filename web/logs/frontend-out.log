@@ -141,3 +141,46 @@
 2026-04-27T16:57:15: > react-scripts build
 2026-04-27T16:57:15: 
 2026-04-27T16:57:19: Creating an optimized production build...
+2026-04-27T16:57:58: Compiled with warnings.
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58: [eslint] 
+2026-04-27T16:57:58: src/components/Rodape/index.tsx
+2026-04-27T16:57:58:   Line 34:21:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+2026-04-27T16:57:58:   Line 39:21:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+2026-04-27T16:57:58:   Line 44:21:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+2026-04-27T16:57:58:   Line 49:21:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58: src/pages/Cadastro/index.tsx
+2026-04-27T16:57:58:   Line 65:28:  'erro' is assigned a value but never used     @typescript-eslint/no-unused-vars
+2026-04-27T16:57:58:   Line 65:34:  'sucesso' is assigned a value but never used  @typescript-eslint/no-unused-vars
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58: src/pages/Dashboard/index.tsx
+2026-04-27T16:57:58:   Line 4:8:  'Cabecalho' is defined but never used  @typescript-eslint/no-unused-vars
+2026-04-27T16:57:58:   Line 7:8:  'Rodape' is defined but never used     @typescript-eslint/no-unused-vars
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58: src/pages/Login/index.tsx
+2026-04-27T16:57:58:   Line 57:28:  'erro' is assigned a value but never used     @typescript-eslint/no-unused-vars
+2026-04-27T16:57:58:   Line 57:34:  'sucesso' is assigned a value but never used  @typescript-eslint/no-unused-vars
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58: Search for the keywords to learn more about each warning.
+2026-04-27T16:57:58: To ignore, add // eslint-disable-next-line to the line before.
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58: File sizes after gzip:
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58:   247.11 kB  build/static/js/main.4bb50f54.js
+2026-04-27T16:57:58:   607 B      build/static/css/main.da37bad7.css
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58: The project was built assuming it is hosted at /.
+2026-04-27T16:57:58: You can control this with the homepage field in your package.json.
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58: The build folder is ready to be deployed.
+2026-04-27T16:57:58: You may serve it with a static server:
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58:   serve -s build
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58: Find out more about deployment here:
+2026-04-27T16:57:58: 
+2026-04-27T16:57:58:   https://cra.link/deployment
+2026-04-27T16:57:58: 
+2026-04-27T16:57:59:  UPDATE  The latest version of `serve` is 14.2.6
+2026-04-27T16:58:00:  INFO  Accepting connections at http://localhost:3000
